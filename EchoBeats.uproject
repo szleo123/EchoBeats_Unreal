@@ -15,6 +15,11 @@
 			"Name": "SST",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/92a8824c461141ce95f77e454d0c1ba5"
+		},
+		{
+			"Name": "AudioAnalysisTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/54f6567f89184beb9203f6211c791175"
 		}
 	]
 }
