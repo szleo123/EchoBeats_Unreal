@@ -17,3 +17,7 @@ Developed on the Unreal 5 engine, Echo Beats leverages advanced physics and stun
 
 The game is developed only for PC. We expect the development process to take about 5 weeks
 with a talented team of 3 game developers working around the clock to ensure the best experience for our loyal players.
+
+![Alt text](./Scrennshots/p1.png)
+![Alt text](./Scrennshots/p2.png)
+![Alt text](./Scrennshots/p3.png)
