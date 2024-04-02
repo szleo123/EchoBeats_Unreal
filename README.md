@@ -19,5 +19,5 @@ The game is developed only for PC. We expect the development process to take abo
 with a talented team of 3 game developers working around the clock to ensure the best experience for our loyal players.
 
 ![](Screenshots/p1.png)
-![Alt text](./Scrennshots/p2.png)
-![Alt text](./Scrennshots/p3.png)
+![](Screenshots/p2.png)
+![](Screenshots/p3.png)
