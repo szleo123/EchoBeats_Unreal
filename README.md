@@ -1,5 +1,7 @@
 # EchoBeats
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gXZLn1zZV1s/0.jpg)](https://www.youtube.com/watch?v=gXZLn1zZV1s)
+
 Echo Beats: Dance of the Shadow merges the heart-pounding excitement of a rhythm game with the thrill of a platformer. Players embody a world-renowned dance artist who, upon uncovering a cursed artifact during a pivotal performance, must dance their way out of an ever-encroaching darkness.
 
 The game aims at players with an interest in rhythm games and platformers. It caters to a wide audience by combining intuitive rhythm-based gameplay with accessible platforming mechanics, making it an appealing choice for both casual and hardcore gamers. Its unique gameplay mechanic, where players use rhythmic movements to navigate and survive, sets it apart from traditional titles in the space.
